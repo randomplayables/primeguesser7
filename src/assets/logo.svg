@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Prime Guess Logo</title>
+  <desc>Logo for the Prime Guess game</desc>
+  <circle cx="100" cy="100" r="95" fill="#f9f9f9" stroke="#333" stroke-width="4"/>
+  <text x="100" y="130" font-family="Arial, sans-serif" font-size="100" text-anchor="middle" fill="#333">?</text>
+  <circle cx="50" cy="50" r="20" fill="#4caf50"/>
+  <text x="50" y="57" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff">2</text>
+  <circle cx="150" cy="50" r="20" fill="#2196f3"/>
+  <text x="150" y="57" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff">3</text>
+  <circle cx="50" cy="150" r="20" fill="#ff9800"/>
+  <text x="50" y="157" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff">5</text>
+  <circle cx="150" cy="150" r="20" fill="#e91e63"/>
+  <text x="150" y="157" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff">7</text>
+</svg>
